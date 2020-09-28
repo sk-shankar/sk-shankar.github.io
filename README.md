@@ -1,7 +1,8 @@
-#### 
 #### PROTOCOL
 
 this is a mock-up of of project break the cycle's protocol working group homepage. here, you can find out about us, our process, and our exploration.
+
+[workflow](http://sk-shankar.github.io/workflow.md)
 
 #### 
 #### PURPOSE
@@ -30,17 +31,17 @@ sk shankar - sk@projectbreakthecycle.com
 #### 
 #### PROJECTS
 
-[current projects](http://publicunion.github.io/current-projects.md)
+[current projects](http://sk-shankar.github.io/current-projects.md)
 
-[past projects](http://publicunion.github.io/current-projects.md)
+[past projects](http://sk-shankar.github.io/current-projects.md)
 
-[proposed projects](http://publicunion.github.io/proposed-projects.md)
+[proposed projects](http://sk-shankar.github.io/proposed-projects.md)
 
 #### 
 #### PAPERS
 
-[working papers](http://publicunion.github.io/working-papers.md)
+[working papers](http://sk-shankar.github.io/working-papers.md)
 
-[current quarterly volume](http://publicunion.github.io/working-papers.md)
+[current quarterly volume](http://sk-shankar.github.io/working-papers.md)
 
-[archived papers](http://publicunion.github.io/working-papers.md)
+[archived papers](http://sk-shankar.github.io/working-papers.md)
