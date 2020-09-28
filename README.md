@@ -4,14 +4,14 @@ this is a mock-up of of project break the cycle's protocol working group homepag
 
 [workflow](http://sk-shankar.github.io/workflow.md)
 
-#### 
+ 
 #### PURPOSE
 
 [project break the cycle](http://projectbreakthecycle.com/about)
 
 the purpose of this permanent working group is to design and execute the meta-process of project break the cycle in order to optimally fulfill our organization’s mission.
 
-#### 
+ 
 #### PEOPLE
 
 the members of the group are all volunteer college students. 
@@ -28,7 +28,7 @@ jad marhaba - jad@projectbreakthecycle.com
 
 sk shankar - sk@projectbreakthecycle.com 
 
-#### 
+ 
 #### PROJECTS
 
 [current projects](http://sk-shankar.github.io/current-projects.md)
@@ -37,7 +37,7 @@ sk shankar - sk@projectbreakthecycle.com
 
 [proposed projects](http://sk-shankar.github.io/proposed-projects.md)
 
-#### 
+
 #### PAPERS
 
 [working papers](http://sk-shankar.github.io/working-papers.md)
