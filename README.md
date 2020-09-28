@@ -18,17 +18,17 @@ the purpose of this permanent working group is to design and execute the meta-pr
 
 the members of the group are all volunteer college students. 
 
-farouk marhaba - farouk@projectbreakthecycle.com 
+farouk marhaba - mailto:farouk@projectbreakthecycle.com 
 
-sanjeeth rajaram - sanjeeth@projectbreakthecycle.com
+sanjeeth rajaram - mailto:sanjeeth@projectbreakthecycle.com
 
-darshan shah - darshan@projectbreakthecycle.com 
+darshan shah - mailto:darshan@projectbreakthecycle.com 
 
-dheeraj bandaru - dheeraj@projectbreakthecycle.com
+dheeraj bandaru - mailto:dheeraj@projectbreakthecycle.com
 
-jad marhaba - jad@projectbreakthecycle.com 
+jad marhaba - mailto:jad@projectbreakthecycle.com 
 
-sk shankar - sk@projectbreakthecycle.com 
+sk shankar - mailto:sk@projectbreakthecycle.com 
 
  
  
