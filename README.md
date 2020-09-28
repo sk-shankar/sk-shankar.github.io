@@ -7,23 +7,23 @@ PURPOSE
 
 [project break the cycle](http://projectbreakthecycle.com/about)
 
-The purpose of this permanent working group is to design and execute the meta-process of project break the cycle in order to optimally fulfill our organization’s mission.
+the purpose of this permanent working group is to design and execute the meta-process of project break the cycle in order to optimally fulfill our organization’s mission.
 
 PEOPLE
 
-The members of the group are all volunteer college students. 
+the members of the group are all volunteer college students. 
 
-farouk marhaba - mailto:farouk@projectbreakthecycle.com 
+farouk marhaba - farouk@projectbreakthecycle.com 
 
-sanjeeth rajaram - mailto:sanjeeth@projectbreakthecycle.com
+sanjeeth rajaram - sanjeeth@projectbreakthecycle.com
 
-darshan shah - mailto:darshan@projectbreakthecycle.com 
+darshan shah - darshan@projectbreakthecycle.com 
 
-dheeraj bandaru - mailto:dheeraj@projectbreakthecycle.com
+dheeraj bandaru - dheeraj@projectbreakthecycle.com
 
-jad marhaba - mailto:jad@projectbreakthecycle.com 
+jad marhaba - jad@projectbreakthecycle.com 
 
-sk shankar - mailto:sk@projectbreakthecycle.com 
+sk shankar - sk@projectbreakthecycle.com 
 
 PROJECTS
 
