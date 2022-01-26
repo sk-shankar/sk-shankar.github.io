@@ -1,1 +1,2 @@
-this page explores "algorithm cases"
+# sk shankar
+hello {at} kasergode {dot} com
